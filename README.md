@@ -1,3 +1,6 @@
+Timothy Busk Mortensen - RUST eksamen
+Scenario 1: Command Line Task Manager
+
 ## 🛠 Command Overview
 
 This CLI app supports the following commands:
